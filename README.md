@@ -60,7 +60,7 @@ The dataset is available in a zipped folder:
 
 ## Notes
 
-- This dataset is sourced from the Instacart Market Basket Analysis dataset [Instacart Market Basket Analysis]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?utm_source=chatgpt.com&select=products.csv)](https://github.com/taloc/grocery_delivery_service/blob/main/grocery_deliveries.zip)).
+- This dataset is sourced from the Instacart Market Basket Analysis dataset [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?utm_source=chatgpt.com&select=products.csv)
 - Due to privacy concerns, the dataset is a subset sample and does not contain sensitive information.
 
 
