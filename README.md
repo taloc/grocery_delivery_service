@@ -3,6 +3,9 @@
 ## Overview
 This repository contains a dataset for analyzing grocery delivery sales, designed to support historical and predictive analysis for a grocery delivery app. The dataset includes six tables capturing orders, products, aisles, departments, and related details. 
 
+- **Historical Orders Analysis**: Analyze historical sales data to identify trends, customer behavior, and delivery patterns using interactive Power BI visualizations.
+- **Predictive Model**: Develop a forecast model with prior sales data and validate its accuracy against training data, presenting results in a dynamic Power BI dashboard.
+
 ## Dataset Description
 The dataset consists of six tables, detailed below:
 
