@@ -1,7 +1,7 @@
 # Grocery Delivery Service Dataset
 
 ## Overview
-This repository contains a dataset for analyzing grocery delivery sales, designed to support historical and predictive analysis for a grocery delivery app. The dataset includes six tables capturing orders, products, aisles, departments, and related details. This data is ideal for creating Power BI reports, forecasting models, and validating predictions to inform app development decisions.
+This repository contains a dataset for analyzing grocery delivery sales, designed to support historical and predictive analysis for a grocery delivery app. The dataset includes six tables capturing orders, products, aisles, departments, and related details. 
 
 ## Dataset Description
 The dataset consists of six tables, detailed below:
