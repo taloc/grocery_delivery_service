@@ -54,13 +54,10 @@ The dataset consists of six tables, detailed below:
 | department_id | Identifier linking to the departments table |
 
 
-## Download Instructions
-The dataset is available in a zipped folder:  
-[Download grocery_deliveries.zip](https://github.com/taloc/grocery_delivery_service/blob/main/grocery_deliveries.zip)
 
 ## Notes
 
-- This dataset is sourced from the Instacart Market Basket Analysis dataset [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?utm_source=chatgpt.com&select=products.csv)
+- This dataset is sourced from the Instacart Market Basket Analysis dataset [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?utm_source=chatgpt.com&select=products.csv).
 - Due to privacy concerns, the dataset is a subset sample and does not contain sensitive information.
 
 
