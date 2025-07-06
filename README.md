@@ -53,30 +53,17 @@ The dataset consists of six tables, detailed below:
 | aisle_id      | Identifier linking to the aisles table   |
 | department_id | Identifier linking to the departments table |
 
-## Usage
-This dataset is suitable for:
-- Building Power BI dashboards to visualize historical sales trends and customer behavior
-- Developing predictive models to forecast future orders
-- Validating forecast accuracy by comparing predictions (using prior data) against training data
-- Analyzing delivery patterns, product popularity, and reorder trends
 
 ## Download Instructions
 The dataset is available in a zipped folder:  
 [Download grocery_deliveries.zip](https://github.com/taloc/grocery_delivery_service/blob/main/grocery_deliveries.zip)
 
-**Steps to Download:**
-1. Navigate to the link above.
-2. If you see: "Sorry about that, but we can’t show files that are this big right now," the data is still accessible.
-3. Click the **Download raw file** button in the upper-right corner of the file preview.
-4. Choose a save location on your device and click **Save**.
-
 ## Notes
-- Ensure proper data cleaning and transformation before analysis, as the dataset may contain inconsistencies.
-- For predictive modeling, use the `Order Products Prior` table for training and the `Order Products Train` table for validation.
-- A separate file (PDF or Word) documenting any data cleaning or transformations is recommended when sharing analysis results.
+
+- This dataset is sourced from the Instacart Market Basket Analysis dataset [Instacart Market Basket Analysis]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?utm_source=chatgpt.com&select=products.csv)](https://github.com/taloc/grocery_delivery_service/blob/main/grocery_deliveries.zip)).
+- Due to privacy concerns, the dataset is a subset sample and does not contain sensitive information.
+
 
 ## License
-This dataset is provided for educational and analytical purposes. Please ensure compliance with any applicable data usage policies.
 
-## Contact
-For questions or contributions, please open an issue or submit a pull request on this repository.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
